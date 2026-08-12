@@ -18,7 +18,7 @@
 **[NOTE]**: Due to the large class size, please do **not** email us individually. Ed should be used for all Q&A.
 
 ### Ed
-The Piazza page for this course is [here](https://xxx).
+The Ed page for this course is [here](https://xxx).
 **All** communication about this course is done over Ed. This includes questions, discussions, announcements, as well as private messages. 
 
 ## Course outline
