@@ -4,11 +4,9 @@
 
 ### Schedule
 - Lectures: 
-  * Wed 2:30pm – 4:15pm, LSB LT-5
-  * Thu 4:30pm – 5:15pm, LSK LT-2 
+  * Mon 10:30am – 1:15pm, WMY 408
 - Tutorials:
-  * L01, Thu 2:30pm - 3:15pm, SHB 924 
-  * L02, Thu 5:30pm - 6:15pm, SHB 123
+  * Mon 1:30pm - 2:15pm, WMY 408
 
 ### Team
 | Member | Role | Office Hours |
@@ -28,8 +26,10 @@ The Piazza page for this course is [here](https://xxx).
 This course xxx
 
 ### Grading
-| Assessment item | Weight 
+|  | Weight 
 | :---------------- | :--- | 
-| Assignments | 50% | 
-| Lab quizzes* | 10% |
-| Final Exam | 40% | 
+| Paper Presentation | 15% | 
+| Paper Summary | 15% |
+| Participation | 10% |
+| Project Report | 40% | 
+| Project Presentation | 20% | 
