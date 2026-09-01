@@ -35,6 +35,18 @@ Students are expected to have good programming skills and must have taken at lea
 ###  Textbook
 This course has no textbooks. We will read recent papers from top venues to understand trends in scalable GenAI and agentic systems, and their applications.
 
+## Tentative Schedule and Reading List
+
+*This is an evolving list and subject to changes due to the breakneck pace of agentic and generative AI innovations.*
+
+| Date | Readings | Presenter | Summary | Reviewer |
+| :---- | :---- | :---- | :---- | :---- |
+| **Sep 7** | **Introduction** | [Henry](Slides/083126-MChowdhury.pdf) |   |   |
+|   | [Hints and Principles for Computer System Design](https://www.microsoft.com/en-us/research/wp-content/uploads/2019/09/Hints-and-Principles-v1-full.pdf) (Required) |   |   |   |
+|   | [Machine Learning Fleet Efficiency: Analyzing and Optimizing Large-Scale Google TPU Systems with ML Productivity Goodput](https://arxiv.org/abs/2502.06982) (Required) |   |   |   |
+|   | [The Datacenter as a Computer](https://web.eecs.umich.edu/~mosharaf/Readings/DC-Computer.pdf) (Chapters 1 and 2\) |   |   |   |
+|   | [Heterogeneity at Hyperscale: Characterization and Scheduling of Large Production AI Clusters at Alibaba](https://www.usenix.org/conference/osdi26/presentation/li-suyi) |   |   |   |
+
 ### Grading
 |  | Weight 
 | :---------------- | :--- | 
