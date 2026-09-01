@@ -29,10 +29,10 @@ Since datacenters and cloud computing form the backbone of modern computing, we 
 
 Note that this course is NOT focused on ML/AI algorithms or methods. Instead, we will focus on how one can build software systems so that existing AI methods can be used in practice and new AI methods can emerge.
 
-Prerequisites
+### Prerequisites
 Students are expected to have good programming skills and must have taken at least one undergraduate-level systems-related course (from operating systems, databases, distributed systems, and networking). This is not formally enforced but without some background students may find this course quite challenging. Having an undergraduate ML/AI course may be helpful, but not required or necessary.
 
-Textbook
+###  Textbook
 This course has no textbooks. We will read recent papers from top venues to understand trends in scalable GenAI and agentic systems, and their applications.
 
 ### Grading
