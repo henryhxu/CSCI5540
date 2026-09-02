@@ -49,7 +49,7 @@ This course has no textbooks. We will read recent papers from top venues to unde
 | **Sep 14** | **No Class: Find Project Groups** |   |   |   |
 |   | [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf) (Required) |   |   |   |
 |   | [How to Give a Bad Talk](https://www.cs.ucf.edu/courses/cop4910/fall2004/BadTalk.pdf) (Required) |   |   |   |
-|   | ***Systems for LLMs*** |   |   |   |
+|   | ***Chapter 1. Systems for LLMs*** |   |   |   |
 | **Sep 21** | **Pre-training: DP, TP, PP** |   |   |   |
 |   | [Megatron-LM]() (Required) |   |   |   |
 |   | [ZeRO]() (Required) |   |   |   |
