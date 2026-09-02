@@ -63,6 +63,100 @@ This course has no textbooks. We will read recent papers from top venues to unde
 |   | [SimpleFSDP](); [torch.compile]() |   |   |   |
 |   | [AutoSP](https://arxiv.org/abs/2604.27089) |   |   |   |
 
+## Policies
+The format of this course is heavily borrowed from Prof. Mosharaf Chowdhury's [CSE 585](https://github.com/mosharaf/cse585/tree/f26) from U. Michigan with his consent.
+
+### Groups
+All activities of this course will be performed in **groups of 5 students**.
+
+### Required Reading
+Each lecture will have **two/three required readings that everyone must read**.  
+There will be *two or more optional related reading(s)* that only the presenter(s) should be familiar with.
+They are optional for the rest of the class.
+
+### Student Lectures
+The course will be conducted as a seminar. 
+Only one group will present in each class.
+Each group will be assigned *at least one lecture* over the course of the semester. 
+Presentations should succinctly cover all required papers for that lecture.
+The duration of the presentation should be **at most 40 minutes** with short clarifying questions and interruptions.
+The rest of the lecture time will be dedicated toward discussion on the papers and the broader topic(s) covered by the papers.
+
+In the presentation, you should:
+
+* Provide necessary background and motivate the problem (not restricted by the paper itself).
+* Present the high level idea, approach, and/or insight (using examples, whenever appropriate) in the required reading. 
+* Discuss technical details so that one can understand key details without carefully reading.
+* Explain the differences between related works.
+* Identify strengths and weaknesses of the required reading and propose directions of future research.
+
+The instructor team will review and suggest improvements for the presentations before each lecture.
+Therefore, *the slides for a presentation must be emailed to the instructor team at least 24 hours prior to the corresponding class.*
+To enable suggestions, use Google Slides and allow the instructor team give in-line comments.
+
+### Lecture Summaries
+Each group will also be assigned to **write summaries for at least one lecture**.
+The summary assigned to a group will not be the reading they gave the lecture on.
+The group will write a summary for all presented papers (required readings) for that lecture.
+
+A paper summary must address the following questions in sufficient details (2-3 pages):
+
+* What is the problem addressed in the lecture, and why is this problem important?
+* What is the state of related works in this topic?
+* What is the proposed solution, and what key insight guides their solution?
+* What is one (or more) drawback or limitation of the proposal?
+* What are potential directions for future research?
+
+*The paper summary of a paper must be emailed to the instructor team within 24 hours after its presentation.* 
+**Late summaries will not be counted.** 
+You should use [this format](Summaries/Template.md) for writing your summary.
+Use Google doc to enable in-line comments and suggestions.
+
+*Allocate enough time for your reading, discuss as a group, write the summary carefully, and finally, include key observations from the class discussion.*
+
+### Post-Presentation Panel Discussion 
+To foster a deeper understanding of the papers and encourage critical thinking, each lecture will be followed by a panel discussion. 
+This discussion will involve three distinct roles played by different student groups, simulating an interactive and dynamic scholarly exchange.
+
+#### Roles and Responsibilities
+
+1. **The Authors**
+- Group Assignment: The group that presents the paper and the group that writes the summary will play the role of the paper's authors.
+- Responsibility: As authors, you are expected to defend your paper against critiques, answer questions, and discuss how you might improve or extend your research in the future, akin to writing a rebuttal during the peer-review process.
+
+2. **The Reviewers**
+- Group Assignment: Each group will be assigned to one slot to play the role of reviewers for all presented papers (required readings) of that lecture.
+- Responsibility: Reviewers critically assess the paper, posing challenging questions and highlighting potential weaknesses or areas for further investigation. 
+Your goal is to engage in a constructive critique of the paper, simulating a peer review scenario.
+
+3. **Rest of the Class**
+- Responsibility: 
+  - You are required to [submit]() **one insightful question** for each presented paper before each class.
+  - During the panel discussions, feel free to actively **ask questions** and engage in the dialogue.
+
+### Participation
+Given the discussion-based nature of this course, participation is required both for your own understanding and to improve the overall quality of the course.
+You are expected to attend **all** lectures (you may skip up to 2 lectures due to legitimate reasons), and more importantly, participate in class discussions.
+There will be random events to gauge attendance.
+
+A key part of participation will be in the form of discussion in Ed.
+The group in charge of the summary should initiate the discussion and the rest should participate.
+Not everyone has to add something every day, but it is expected that everyone has something to say over the semester.
+
+### Project
+You will have to complete substantive work on an instructor-approved problem and have original contribution.
+Surveys are not permitted as projects; instead, each project must contain a survey of background and related work.
+
+You must meet the following milestones (unless otherwise specified in future announcements) to ensure a high-quality project at the end of the semester:
+
+* Form a group and [declare your group's membership and paper preferences]() by **September 14**.
+After this date, we will form groups from the remaining students.
+* Email a 2-page draft proposal (including references) by **September 30**. Remember to include the names and CUHK email addresses of the group members. 
+* Each group must present mid-semester progress during the tutorial hours on **November 2**.
+* Each group must turn in an 8-page final report and your source code via email **on or before 1:00PM EST on December 17.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. It should point to a git repository with all the code along with a README file with a step-by-step guide on how to compile and run the code. Code that cannot run will be treated as a non-submission without any debugging effort from the teaching team. Make sure your instructions are complete.
+
+### GPU resources
+* The dept has reserved at least 2 3090 GPUs for this course. The dept also has much more powerful GPUs shared by all students, and many individual faculty members (i.e. your advisor) have their own GPUs for which their students have highest priority using. More info can be found on the [internal website](https://i.cse.cuhk.edu.hk/technical/gpgpu-hpc-service/server-information/) (CSE IP required).
 
 ### Grading
 |  | Weight 
