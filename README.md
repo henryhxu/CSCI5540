@@ -165,6 +165,25 @@ srun --account gpu --qos csci5540 -p csci5540 --gres=gpu:1 --pty /bin/bash
 ```
 * The dept also has much more powerful GPUs shared by all students, and many individual faculty members (i.e. your advisor) have their own GPUs for which their students have highest priority using. More info can be found on the [internal website](https://i.cse.cuhk.edu.hk/technical/gpgpu-hpc-service/server-information/) (CSE IP required).
 
+
+## Tutorials
+
+| Week | Date | Topic | TA |
+| :---: | :---: | :------------------: | :-----: |
+| 1 | Sep 7 | [Introduction to Machine Learning Systems](tutorial/T01/tut01.pptx) |  TAO Yeyao (in place of Yangtao) |
+| 2 | Sep 14 | [ML system and GPU architecture overview](tutorial/T02/tut02.pptx) |  Yangtao |
+| 3 | Sep 21 | [Triton, and graph optimization](tutorial/T03/tut03.pptx) |  Yangtao |
+| 4 | Sep 28 | [Data parallelism and Zero redundancy](tutorial/T04/tut04.pptx) | Yangtao |
+| 5 | Oct 5 |  [Pipeline parallelism](tutorial/T05/tut05.pptx) |  Yangtao |
+| 6 | Oct 12 | [ML compiler](tutorial/T06/tut06.pptx) |  Yangtao |
+| 7 | Oct 26 | [RL frameworks](tutorial/T07/tut07.pptx) |  Chaobo |
+| 8 | Nov 2 | [LLMs: Mixture of Experts](tutorial/T08/tut08.pptx) |  Chaobo |
+| 9 | Nov 9 | [Transformers, LLMs, serving](tutorial/T09/tut09.pptx) | Chaobo |
+| 10 | Nov 16 | [LLM serving (speculative decoding)](tutorial/T10/tut10.pptx) | Chaobo |
+| 11 | Nov 23 | [Continuous batching and PagedAttention](tutorial/T11/tut11.pptx) | Chaobo |
+| 12 | Nov 30 | [LLM agents](tutorial/T12/tut12.pptx) | Chaobo |
+
+
 ### Grading
 |  | Weight 
 | :---------------- | :--- | 
