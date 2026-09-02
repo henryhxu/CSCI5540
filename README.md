@@ -55,6 +55,12 @@ This course has no textbooks. We will read recent papers from top venues to unde
 |   | [ZeRO]() (Required) |   |   |   |
 |   | [FSDP]() |   |   |   |
 |   | [GPipe]() |   |   |   |
+| **Sep 28** | **Pre-training: EP, SP, compiler** |   |   |   |
+|   | [Alpa]() (Required) |   |   |   |
+|   | [DeepSpeed-Ulysses]() (Required) |   |   |   |
+|   | [Ring attention]() |   |   |   |
+|   | [SimpleFSDP](); [torch.compile]() |   |   |   |
+|   | [AutoSP](https://arxiv.org/abs/2604.27089) |   |   |   |
 
 ### Grading
 |  | Weight 
