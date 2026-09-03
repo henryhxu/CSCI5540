@@ -156,7 +156,14 @@ After this date, we will form groups from the remaining students.
 * Each group must turn in an 8-page final report and your source code via email **on or before 1:00PM EST on December 17.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. It should point to a git repository with all the code along with a README file with a step-by-step guide on how to compile and run the code. Code that cannot run will be treated as a non-submission without any debugging effort from the teaching team. Make sure your instructions are complete.
 
 ### GPU resources
-* The dept has reserved at least 2 3090 GPUs for this course. The dept also has much more powerful GPUs shared by all students, and many individual faculty members (i.e. your advisor) have their own GPUs for which their students have highest priority using. More info can be found on the [internal website](https://i.cse.cuhk.edu.hk/technical/gpgpu-hpc-service/server-information/) (CSE IP required).
+* The dept has reserved at least 2 servers each with 8 3090 GPUs for this course. Enrolled students have been given access to them already.
+* Usage example of the 3090 GPUs (slurm based; cse IP or vpn required)
+```
+ssh linux1-15
+export SLURM_CONF=/opt1/slurm/gpu-slurm.conf
+srun --account gpu --qos csci5540 -p csci5540 --gres=gpu:1 --pty /bin/bash
+```
+* The dept also has much more powerful GPUs shared by all students, and many individual faculty members (i.e. your advisor) have their own GPUs for which their students have highest priority using. More info can be found on the [internal website](https://i.cse.cuhk.edu.hk/technical/gpgpu-hpc-service/server-information/) (CSE IP required).
 
 ### Grading
 |  | Weight 
