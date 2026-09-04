@@ -86,7 +86,7 @@ The format of this course is heavily borrowed from Prof. Mosharaf Chowdhury's [C
 ### Groups
 All activities of this course will be performed in **groups of 5 students**.
 
-Register your group information here: [https://forms.gle/QfSWSvF7NHtutVC56](https://forms.gle/QfSWSvF7NHtutVC56), by 23:59 Sep 13. After the deadline we will add remaining students to the groups randomly.
+Register your group information here: [https://forms.gle/QfSWSvF7NHtutVC56](https://forms.gle/QfSWSvF7NHtutVC56), by **23:59 Sep 13**. After the deadline we will add remaining students to the groups randomly.
 
 Online bidding for papers will start on Sep 14 following the finalization of groups.
 
