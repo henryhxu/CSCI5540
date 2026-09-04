@@ -83,6 +83,13 @@ This course has no textbooks. We will read recent papers from top venues to unde
 ## Policies
 The format of this course is heavily borrowed from Prof. Mosharaf Chowdhury's [CSE 585](https://github.com/mosharaf/cse585/tree/f26) from U. Michigan with his consent.
 
+**Adverse weather**: The University has approved revised arrangements regarding suspension of face-to-face class meetings under adverse weather conditions. Details of the revised arrangements have been included in the updated [Postgraduate Student Handbook](https://www.gs.cuhk.edu.hk/download/IX-C.pdf). 
+In light of this, this course adopts the following weather policy by default: when a lecture or tutorial is affected as a result of adverse weather, we will switch to online teaching using Zoom for that lecture or tutorial at the scheduled time; the paper presentations and discussions will be done in the Zoom meeting. The Zoom detail will be emailed to all students well before the scheduled time. The Zoom session will also be recorded in full so students can review the materials. By registering the course students are aware of and agree to this policy.
+
+**Academic honesty**: 
+[CUHK policy](http://www.cuhk.edu.hk/policy/academichonesty); [Engineering faculty policy](https://www.erg.cuhk.edu.hk/erg/AcademicHonesty) 
+
+
 ### Groups
 All activities of this course will be performed in **groups of 5 students**.
 
