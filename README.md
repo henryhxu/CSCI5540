@@ -74,10 +74,10 @@ This course has no textbooks. We will read recent papers from top venues to unde
 | 5 | Oct 5 |  [Pipeline parallelism](tutorial/T05/tut05.pptx) |  Yangtao |
 | 6 | Oct 12 | [ML compiler](tutorial/T06/tut06.pptx) |  Yangtao |
 | 7 | Oct 26 | [RL frameworks](tutorial/T07/tut07.pptx) |  Chaobo |
-| 8 | Nov 2 | [LLMs: Mixture of Experts](tutorial/T08/tut08.pptx) |  Chaobo |
-| 9 | Nov 9 | [Transformers, LLMs, serving](tutorial/T09/tut09.pptx) | Chaobo |
-| 10 | Nov 16 | [LLM serving (speculative decoding)](tutorial/T10/tut10.pptx) | Chaobo |
-| 11 | Nov 23 | [Continuous batching and PagedAttention](tutorial/T11/tut11.pptx) | Chaobo |
+| 8 | Nov 2 | [Transformers, LLMs, serving](tutorial/T08/tut08.pptx) |  Chaobo |
+| 9 | Nov 9 | [FlashAttention and FlashLinearAttention](tutorial/T09/tut09.pptx) | Chaobo |
+| 10 | Nov 16 | [Continuous batching and PagedAttention](tutorial/T10/tut10.pptx) | Chaobo |
+| 11 | Nov 23 | [Speculative Decoding](tutorial/T11/tut11.pptx) | Chaobo |
 | 12 | Nov 30 | [LLM agents](tutorial/T12/tut12.pptx) | Chaobo |
 
 ## Policies
