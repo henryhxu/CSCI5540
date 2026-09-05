@@ -199,8 +199,8 @@ srun --account gpu --qos csci5540 -p csci5540 --gres=gpu:1 --pty /bin/bash
 ### Grading
 |  | Weight 
 | :---------------- | :--- | 
-| Paper Presentation | 15% | 
-| Paper Summary | 15% |
+| Paper Presentation | 20% | 
+| Paper Summary | 10% |
 | Participation | 10% |
 | Project Report | 40% | 
 | Project Presentation | 20% | 
