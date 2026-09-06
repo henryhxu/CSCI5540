@@ -41,7 +41,7 @@ This course has no textbooks. We will read recent papers from top venues to unde
 
 | Date | Readings | Presenter | Summary | Reviewer |
 | :---- | :---- | :---- | :---- | :---- |
-| **Sep 7** | **Introduction (Cloud, systems, and transformers)** | [Henry](lectures/lec1.pdf) |   |   |
+| **Sep 7** | **Introduction (Cloud, systems, and transformers)** | [Henry](lectures/lec1.pptx) |   |   |
 |   | [Hints and Principles for Computer System Design](https://www.microsoft.com/en-us/research/wp-content/uploads/2019/09/Hints-and-Principles-v1-full.pdf) (Required) |   |   |   |
 |   | [The Datacenter as a Computer](https://web.eecs.umich.edu/~mosharaf/Readings/DC-Computer.pdf) (Chapters 1 and 2\) |   |   |   |
 |   | [Heterogeneity at Hyperscale: Characterization and Scheduling of Large Production AI Clusters at Alibaba](https://www.usenix.org/conference/osdi26/presentation/li-suyi) |   |   |   |
