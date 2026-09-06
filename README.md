@@ -41,9 +41,8 @@ This course has no textbooks. We will read recent papers from top venues to unde
 
 | Date | Readings | Presenter | Summary | Reviewer |
 | :---- | :---- | :---- | :---- | :---- |
-| **Sep 7** | **Introduction (Cloud, systems, and transformers)** | [Henry](Slides/083126-MChowdhury.pdf) |   |   |
+| **Sep 7** | **Introduction (Cloud, systems, and transformers)** | [Henry](lectures/lec1.pdf) |   |   |
 |   | [Hints and Principles for Computer System Design](https://www.microsoft.com/en-us/research/wp-content/uploads/2019/09/Hints-and-Principles-v1-full.pdf) (Required) |   |   |   |
-|   | [Machine Learning Fleet Efficiency: Analyzing and Optimizing Large-Scale Google TPU Systems with ML Productivity Goodput](https://arxiv.org/abs/2502.06982) |   |   |   |
 |   | [The Datacenter as a Computer](https://web.eecs.umich.edu/~mosharaf/Readings/DC-Computer.pdf) (Chapters 1 and 2\) |   |   |   |
 |   | [Heterogeneity at Hyperscale: Characterization and Scheduling of Large Production AI Clusters at Alibaba](https://www.usenix.org/conference/osdi26/presentation/li-suyi) |   |   |   |
 | **Sep 14** | **No Class: Find Project Groups** |   |   |   |
