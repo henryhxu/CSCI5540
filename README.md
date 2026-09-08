@@ -59,7 +59,7 @@ This course has no textbooks. We will read recent papers from top venues to unde
 |   | [DeepSpeed-Ulysses]() (Required) |   |   |   |
 |   | [BigMac](https://arxiv.org/pdf/2605.25451) (Required)|   |   |   |
 |   | [Ring attention]() |   |   |   |
-|   | [SimpleFSDP](); [torch.compile]() |   |   |   |
+|   | [MegaScale-Omni: A Hyper-Scale, Workload-Resilient System for MultiModal LLM Training in Production]() |   |   |   |
 |   | [AutoSP](https://arxiv.org/abs/2604.27089) |   |   |   |
 
 ## Tutorials
