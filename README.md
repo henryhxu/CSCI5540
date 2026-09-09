@@ -225,9 +225,9 @@ Surveys are not permitted as projects; instead, each project must contain a surv
 
 You must meet the following milestones (unless otherwise specified in future announcements) to ensure a high-quality project at the end of the semester:
 
-* Form a group and [declare your group's membership and paper preferences]() by **September 14**.
+* Form a group and [declare your group's membership]() by **September 14**.
 After this date, we will form groups from the remaining students.
-* Email a 2-page draft proposal (including references) by **September 30**. Remember to include the names and CUHK email addresses of the group members. 
+* Email a 2-page draft proposal (including references) by **September 30 to csci5540@cse.cuhk.edu.hk**. Remember to include the names and CUHK email addresses of the group members. 
 * Each group must present mid-semester progress during the tutorial hours on **November 2**.
 * Each group must turn in an 8-page final report and your source code via email **on or before 1:00PM EST on December 17.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. It should point to a git repository with all the code along with a README file with a step-by-step guide on how to compile and run the code. Code that cannot run will be treated as a non-submission without any debugging effort from the teaching team. Make sure your instructions are complete.
 
