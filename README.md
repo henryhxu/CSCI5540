@@ -61,6 +61,52 @@ This course has no textbooks. We will read recent papers from top venues to unde
 |   | [RingAttention with Blockwise Transformers for Near-Infinite Context](https://openreview.net/forum?id=WsRHpHH4s0) |   |   |   |
 |   | [AutoSP: Unlocking Long-Context LLM Training Via Compiler-Based Sequence Parallelism](https://openreview.net/forum?id=0fgsHvmBBI) |   |   |   |
 |   | [MegaScale-Omni: A Hyper-Scale, Workload-Resilient System for MultiModal LLM Training in Production](https://dl.acm.org/doi/10.1145/3767295.3803587) |   |   |   |
+| **Oct 5** | **Inference: Disaggregation and Memory** |   |   |   |
+|   | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180) (Required) |   |   |   |
+|   | [DistServe: Disaggregating Prefill and Decoding for Goodput-Optimized Large Language Model Serving](https://arxiv.org/abs/2401.09670) (Required) |   |   |   |
+|   | [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/conference/osdi22/presentation/yu) |   |   |   |
+|   | [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://www.usenix.org/conference/osdi24/presentation/agrawal) |   |   |   |
+| **Oct 12** | **Inference: KV Cache and Speculation** |   |   |   |
+|   | [Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving](https://arxiv.org/abs/2407.00079) |   |   |   |
+|   | [EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test](https://arxiv.org/abs/2503.01840) |   |   |   |
+|   | [VeriCache: Turning Lossy KV Cache into Lossless LLM Inference](https://arxiv.org/abs/2605.17613) |   |   |   |
+|   | [DFlash: Block Diffusion for Flash Speculative Decoding](https://arxiv.org/abs/2602.06036) |   |   |   |
+| **Oct 19** | **Post-training: Basics** |   |   |   |
+|   | [HybridFlow: A Flexible and Efficient RLHF Framework](https://dl.acm.org/doi/10.1145/3689031.3696075) (Required) |   |   |   |
+|   | [Optimizing RLHF Training for Large Language Models with Stage Fusion](https://www.usenix.org/conference/nsdi25/presentation/zhong) (Required) |   |   |   |
+|   | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948) |   |   |   |
+|   | [Reinforcement Learning Optimization for Large-Scale Learning: An Efficient and User-Friendly Scaling Library](https://arxiv.org/abs/2506.06122) |   |   |   |
+| **Oct 26** | **Post-training: Async and Disaggregation** |   |   |   |
+|   | [AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning](https://proceedings.neurips.cc/paper_files/paper/2025/hash/33c00862bfa29ac72ecf630a41e19352-Abstract-Conference.html) (Required) |   |   |   |
+|   | [StreamRL: Scalable, Heterogeneous, and Elastic RL for LLMs with Disaggregated Stream Generation](https://arxiv.org/abs/2504.15930) (Required) |   |   |   |
+|   | [Dynamic Compute and Network Orchestration for Disaggregated RL](https://dl.acm.org/doi/10.1145/3789240.3829124) |   |   |   |
+|   | [ProRL Agent: Rollout-as-a-Service for RL Training of Multi-Turn LLM Agents](https://arxiv.org/abs/2603.18815) |   |   |   |
+| **Nov 2** | **Agents as a New Workload** |   |   |   |
+|   | [The Cost of Dynamic Reasoning: Demystifying AI Agents and Test-Time Scaling from an AI Infrastructure Perspective](https://arxiv.org/abs/2506.04301) (Required) |   |   |   |
+|   | [Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/abs/2503.13657) (Required) |   |   |   |
+|   | [Towards Understanding, Analyzing, and Optimizing Agentic AI Execution: A CPU-Centric Perspective](https://arxiv.org/abs/2511.00739) |   |   |   |
+|   | [OpenHands: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/abs/2407.16741) |   |   |   |
+| **Nov 9** | **Agent Serving and Sandbox** |   |   |   |
+|   | [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](https://www.usenix.org/conference/osdi24/presentation/lin-chaofan) (Required) |   |   |   |
+|   | [FlashAgents: Accelerating Multi-Agent LLM Systems via Streaming Prefill Overlap](https://openreview.net/forum?id=m14PPUfgEc) (Required) |   |   |   |
+|   | [Towards End-to-End Optimization of LLM-based Applications with Ayo](https://dl.acm.org/doi/10.1145/3676641.3716278) |   |   |   |
+|   | [Pie: A Programmable Serving System for Emerging LLM Applications](https://dl.acm.org/doi/10.1145/3731569.3764814) |   |   |   |
+| **Nov 16** | **Agent Applications in the Real World** |   |   |   |
+|   | [Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://arxiv.org/abs/2601.11868) (Required) |   |   |   |
+|   | [R&D-Agent-Quant: A Multi-Agent Framework for Data-Centric Factors and Model Joint Optimization](https://arxiv.org/abs/2505.15155) (Required) |   |   |   |
+|   | [Measuring Agents in Production](https://arxiv.org/abs/2512.04123) |   |   |   |
+|   | [MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making](https://arxiv.org/abs/2404.15155) |   |   |   |
+| **Nov 23** | **Infra and Ops: Attention and Communication** |   |   |   |
+|   | [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135) (Required) |   |   |   |
+|   | [Alibaba HPN: A Data Center Network for Large Language Model Training](https://dl.acm.org/doi/10.1145/3651890.3672265) (Required) |   |   |   |
+|   | [FlashAttention-4: Algorithm and Kernel Pipelining Co-Design for Asymmetric Hardware Scaling](https://arxiv.org/abs/2603.05451) |   |   |   |
+|   | [Connecting 100K+ GPUs: Building the Communication Stack for Large-Scale LLM Training](https://dl.acm.org/doi/10.1145/3789240.3829152) |   |   |   |
+| **Nov 30** | **Infra and Ops: Reliability and Simulation** |   |   |   |
+|   | [Robust LLM Training Infrastructure at ByteDance](https://arxiv.org/abs/2509.16293) (Required) |   |   |   |
+|   | [Frontier: Towards Comprehensive and Accurate LLM Inference Simulation](https://arxiv.org/abs/2605.21312) (Required) |   |   |   |
+|   | [Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints](https://dl.acm.org/doi/10.1145/3600006.3613145) |   |   |   |
+|   | [Mycroft: Tracing Dependencies in Collective Communication Towards Reliable LLM Training](https://dl.acm.org/doi/10.1145/3731569.3764848) |   |   |   |
+|   | [SimAI: Unifying Architecture Design and Performance Tuning for Large-Scale Large Language Model Training with Scalability and Precision](https://www.usenix.org/conference/nsdi25/presentation/wang-xizheng-simai) |   |   |   |
 
 
 ## Tutorials
