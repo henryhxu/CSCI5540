@@ -207,7 +207,7 @@ Your goal is to engage in a constructive critique of the paper, simulating a pee
 
 3. **Rest of the Class**
 - Responsibility: 
-  - You are required to [submit]() **one insightful question** for each presented paper before each class.
+  - You are required to [submit]() **one insightful question** for each presented (required) paper before each class.
   - During the panel discussions, feel free to actively **ask questions** and engage in the dialogue.
 
 ### Participation
@@ -227,7 +227,7 @@ You must meet the following milestones (unless otherwise specified in future ann
 
 * Form a group and [declare your group's membership]() by **September 14**.
 After this date, we will form groups from the remaining students.
-* Email a 2-page draft proposal (including references) by **September 30 to csci5540@cse.cuhk.edu.hk**. Remember to include the names and CUHK email addresses of the group members. 
+* Prepare a 2-page PDF draft proposal (including references) by **September 30**. Remember to include the names and CUHK email addresses of the group members. A submission link will be updated here soon.
 * Each group must present mid-semester progress during the tutorial hours on **November 2**.
 * Each group must turn in an 8-page final report and your source code via email **on or before 1:00PM EST on December 17.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. It should point to a git repository with all the code along with a README file with a step-by-step guide on how to compile and run the code. Code that cannot run will be treated as a non-submission without any debugging effort from the teaching team. Make sure your instructions are complete.
 
