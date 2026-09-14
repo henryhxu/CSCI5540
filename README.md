@@ -178,7 +178,7 @@ A paper summary must address the following questions in sufficient details (2-3 
 * What is one (or more) drawback or limitation of the proposal?
 * What are potential directions for future research?
 
-*The paper summary of a paper must be emailed to the instructor team within 24 hours after its presentation.* 
+*The paper summary of a paper must be emailed to the instructor team **within 24 hours after** the class ends at 1:15pm.* 
 **Late summaries will not be counted.** 
 You should use [this format](Summaries/Template.md) for writing your summary.
 Use Google doc to enable in-line comments and suggestions.
