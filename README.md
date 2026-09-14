@@ -72,6 +72,7 @@ This course has no textbooks. We will read recent papers from top venues to unde
 |   | [VeriCache: Turning Lossy KV Cache into Lossless LLM Inference](https://arxiv.org/abs/2605.17613) |   |   |   |
 |   | [DFlash: Block Diffusion for Flash Speculative Decoding](https://arxiv.org/abs/2602.06036) |   |   |   |
 |   | ***Chapter 2: Systems for Agents*** |   |   |   |
+| **Oct 19** | **No class** |   |   |   |
 | **Oct 26** | **Post-training: Basics** |   |   |   |
 |   | [HybridFlow: A Flexible and Efficient RLHF Framework](https://dl.acm.org/doi/10.1145/3689031.3696075) (Required) |   |   |   |
 |   | [Optimizing RLHF Training for Large Language Models with Stage Fusion](https://www.usenix.org/conference/nsdi25/presentation/zhong) (Required) |   |   |   |
