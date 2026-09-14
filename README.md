@@ -72,32 +72,26 @@ This course has no textbooks. We will read recent papers from top venues to unde
 |   | [VeriCache: Turning Lossy KV Cache into Lossless LLM Inference](https://arxiv.org/abs/2605.17613) |   |   |   |
 |   | [DFlash: Block Diffusion for Flash Speculative Decoding](https://arxiv.org/abs/2602.06036) |   |   |   |
 |   | ***Chapter 2: Systems for Agents*** |   |   |   |
-| **Oct 19** | **Post-training: Basics** |   |   |   |
+| **Oct 26** | **Post-training: Basics** |   |   |   |
 |   | [HybridFlow: A Flexible and Efficient RLHF Framework](https://dl.acm.org/doi/10.1145/3689031.3696075) (Required) |   |   |   |
 |   | [Optimizing RLHF Training for Large Language Models with Stage Fusion](https://www.usenix.org/conference/nsdi25/presentation/zhong) (Required) |   |   |   |
 |   | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948) |   |   |   |
 |   | [Reinforcement Learning Optimization for Large-Scale Learning: An Efficient and User-Friendly Scaling Library](https://arxiv.org/abs/2506.06122) |   |   |   |
-| **Oct 26** | **Post-training: Async and Disaggregation** |   |   |   |
+| **Nov 2** | **Post-training: Async and Disaggregation** |   |   |   |
 |   | [AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning](https://proceedings.neurips.cc/paper_files/paper/2025/hash/33c00862bfa29ac72ecf630a41e19352-Abstract-Conference.html) (Required) |   |   |   |
 |   | [StreamRL: Scalable, Heterogeneous, and Elastic RL for LLMs with Disaggregated Stream Generation](https://arxiv.org/abs/2504.15930) (Required) |   |   |   |
 |   | [Dynamic Compute and Network Orchestration for Disaggregated RL](https://dl.acm.org/doi/10.1145/3789240.3829124) |   |   |   |
 |   | [ProRL Agent: Rollout-as-a-Service for RL Training of Multi-Turn LLM Agents](https://arxiv.org/abs/2603.18815) |   |   |   |
-| **Nov 2** | **Agents as a New Workload** |   |   |   |
+| **Nov 9** | **Agents as a New Workload** |   |   |   |
 |   | [The Cost of Dynamic Reasoning: Demystifying AI Agents and Test-Time Scaling from an AI Infrastructure Perspective](https://arxiv.org/abs/2506.04301) (Required) |   |   |   |
 |   | [Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/abs/2503.13657) (Required) |   |   |   |
 |   | [Towards Understanding, Analyzing, and Optimizing Agentic AI Execution: A CPU-Centric Perspective](https://arxiv.org/abs/2511.00739) |   |   |   |
 |   | [OpenHands: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/abs/2407.16741) |   |   |   |
-| **Nov 9** | **Agent Serving and Sandbox** |   |   |   |
+| **Nov 16** | **Agent Serving and Sandbox** |   |   |   |
 |   | [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](https://www.usenix.org/conference/osdi24/presentation/lin-chaofan) (Required) |   |   |   |
 |   | [FlashAgents: Accelerating Multi-Agent LLM Systems via Streaming Prefill Overlap](https://openreview.net/forum?id=m14PPUfgEc) (Required) |   |   |   |
 |   | [Towards End-to-End Optimization of LLM-based Applications with Ayo](https://dl.acm.org/doi/10.1145/3676641.3716278) |   |   |   |
 |   | [Pie: A Programmable Serving System for Emerging LLM Applications](https://dl.acm.org/doi/10.1145/3731569.3764814) |   |   |   |
-| **Nov 16** | **Agent Applications in the Real World** |   |   |   |
-|   | [Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://arxiv.org/abs/2601.11868) (Required) |   |   |   |
-|   | [R&D-Agent-Quant: A Multi-Agent Framework for Data-Centric Factors and Model Joint Optimization](https://arxiv.org/abs/2505.15155) (Required) |   |   |   |
-|   | [Measuring Agents in Production](https://arxiv.org/abs/2512.04123) |   |   |   |
-|   | [MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making](https://arxiv.org/abs/2404.15155) |   |   |   |
-|   | ***Chapter 3: Infrastructures and Operations*** |   |   |   |
 | **Nov 23** | **Kernels and Networks** |   |   |   |
 |   | [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135) (Required) |   |   |   |
 |   | [Alibaba HPN: A Data Center Network for Large Language Model Training](https://dl.acm.org/doi/10.1145/3651890.3672265) (Required) |   |   |   |
