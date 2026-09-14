@@ -136,7 +136,7 @@ In light of this, this course adopts the following weather policy by default: wh
 ### Groups
 All activities of this course will be performed in **groups of 5 students**.
 
-Register your group information here: [https://forms.gle/QfSWSvF7NHtutVC56](https://forms.gle/QfSWSvF7NHtutVC56), by **23:59 Sep 13**. After the deadline we will add remaining students to the groups randomly.
+Register your group information here: [https://forms.gle/QfSWSvF7NHtutVC56](https://forms.gle/QfSWSvF7NHtutVC56), by **23:59 Sep 13**. After the deadline we will add remaining students to the groups randomly. Final grouping information: [https://docs.google.com/spreadsheets/d/1SXECiKS-mpcFCk9n-cZX8UQtq69UT6HkRK8D4z_xIhA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1SXECiKS-mpcFCk9n-cZX8UQtq69UT6HkRK8D4z_xIhA/edit?usp=sharing).
 
 Online bidding for papers will start on Sep 14 following the finalization of groups.
 
