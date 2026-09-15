@@ -178,10 +178,9 @@ A paper summary must address the following questions in sufficient details (2-3 
 * What is one (or more) drawback or limitation of the proposal?
 * What are potential directions for future research?
 
-*The paper summary of a paper must be emailed to the instructor team **within 24 hours after** the class ends at 1:15pm.* 
+*The paper summary of a paper must be submitted to [https://docs.google.com/forms/d/e/1FAIpQLScedf8xuxkDfueS7x7s3-uSYwtBvu9iBLPAsKB3ax364nvaKw/viewform?usp=publish-editor](https://docs.google.com/forms/d/e/1FAIpQLScedf8xuxkDfueS7x7s3-uSYwtBvu9iBLPAsKB3ax364nvaKw/viewform?usp=publish-editor) **within 24 hours after** the class ends at 1:15pm.* 
 **Late summaries will not be counted.** 
 You should use [this format](Summaries/Template.md) for writing your summary.
-Use Google doc to enable in-line comments and suggestions.
 
 *Allocate enough time for your reading, discuss as a group, write the summary carefully, and finally, include key observations from the class discussion.*
 
@@ -196,7 +195,7 @@ This discussion will involve three distinct roles played by different student gr
 - Responsibility: As authors, you are expected to defend your paper against critiques, answer questions, and discuss how you might improve or extend your research in the future, akin to writing a rebuttal during the peer-review process.
 
 2. **The Reviewers**
-- Group Assignment: Each group will be assigned to one slot to play the role of reviewers for all presented papers (required readings) of that lecture.
+- Group Assignment: Each group will be assigned to one slot to play the role of reviewers for all presented papers (required readings) of that lecture. Write a summary as mentioned above.
 - Responsibility: Reviewers critically assess the paper, posing challenging questions and highlighting potential weaknesses or areas for further investigation. 
 Your goal is to engage in a constructive critique of the paper, simulating a peer review scenario.
 
