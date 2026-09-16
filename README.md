@@ -178,7 +178,7 @@ A paper summary must address the following questions in sufficient details (2-3 
 * What is one (or more) drawback or limitation of the proposal?
 * What are potential directions for future research?
 
-*The paper summary of a paper must be submitted to [https://docs.google.com/forms/d/e/1FAIpQLScedf8xuxkDfueS7x7s3-uSYwtBvu9iBLPAsKB3ax364nvaKw/viewform?usp=publish-editor](https://docs.google.com/forms/d/e/1FAIpQLScedf8xuxkDfueS7x7s3-uSYwtBvu9iBLPAsKB3ax364nvaKw/viewform?usp=publish-editor) **within 24 hours after** the class ends at 1:15pm.* 
+*The paper summary must be submitted to [https://docs.google.com/forms/d/e/1FAIpQLScedf8xuxkDfueS7x7s3-uSYwtBvu9iBLPAsKB3ax364nvaKw/viewform?usp=publish-editor](https://docs.google.com/forms/d/e/1FAIpQLScedf8xuxkDfueS7x7s3-uSYwtBvu9iBLPAsKB3ax364nvaKw/viewform?usp=publish-editor) **within 24 hours after** the class ends at 1:15pm.* 
 **Late summaries will not be counted.** 
 You should use [this format](Summaries/Template.md) for writing your summary.
 
@@ -201,7 +201,7 @@ Your goal is to engage in a constructive critique of the paper, simulating a pee
 
 3. **Rest of the Class**
 - Responsibility: 
-  - You are required to [submit]() **one insightful question** for each presented (required) paper before each class.
+  - You are required to ask **one insightful question** on ed for each presented (required) paper before each class.
   - During the panel discussions, feel free to actively **ask questions** and engage in the dialogue.
 
 ### Participation
