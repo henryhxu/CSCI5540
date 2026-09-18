@@ -205,7 +205,7 @@ This discussion will involve three distinct roles played by different student gr
    
 4. **Rest of the Class**
 - Responsibility: 
-  - You are required to ask **one insightful question** on ed for each presented (required) paper before each class.
+  - You are required to ask **one insightful question** on ed for each presented (required) paper before each class. We will post a discussion thread on ed for each paper.
   - During the panel discussions, feel free to actively **ask questions** and engage in the dialogue.
 
 ### Participation
