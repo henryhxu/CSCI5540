@@ -39,7 +39,7 @@ This course has no textbooks. We will read recent papers from top venues to unde
 
 *This is an evolving list and subject to changes due to the breakneck pace of agentic and generative AI innovations.*
 
-| Date | Readings | Presenter | Summary | Reviewer |
+| Date | Readings | Presenter | Reviewer  | Summary |
 | :---- | :---- | :---- | :---- | :---- |
 | **Sep 7** | **Introduction (Cloud, systems, and transformers)** | [Henry](lectures/lec1.pptx) |   |   |
 |   | [Hints and Principles for Computer System Design](https://www.microsoft.com/en-us/research/wp-content/uploads/2019/09/Hints-and-Principles-v1-full.pdf) (Required) |   |   |   |
