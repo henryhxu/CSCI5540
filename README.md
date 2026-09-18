@@ -181,7 +181,7 @@ A paper summary must address the following questions in sufficient details (2-3 
 
 *The paper summary must be submitted to [https://docs.google.com/forms/d/e/1FAIpQLScedf8xuxkDfueS7x7s3-uSYwtBvu9iBLPAsKB3ax364nvaKw/viewform?usp=publish-editor](https://docs.google.com/forms/d/e/1FAIpQLScedf8xuxkDfueS7x7s3-uSYwtBvu9iBLPAsKB3ax364nvaKw/viewform?usp=publish-editor) **within 24 hours after** the class ends at 1:15pm.* 
 **Late summaries will not be counted.** 
-You should use [this format](Summaries/Template.md) for writing your summary.
+You should use [this format](summaries/Template.md) for writing your summary.
 
 *Allocate enough time for your reading, discuss as a group, write the summary carefully, and finally, include key observations from the class discussion.*
 
