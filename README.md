@@ -39,7 +39,7 @@ This course has no textbooks. We will read recent papers from top venues to unde
 
 *This is an evolving list and subject to changes due to the breakneck pace of agentic and generative AI innovations.*
 
-| Date | Readings | Presenter | Reviewer  | Summary |
+| Date | Readings | Presenter | Reviewer | Summary |
 | :---- | :---- | :---- | :---- | :---- |
 | **Sep 7** | **Introduction (Cloud, systems, and transformers)** | [Henry](lectures/lec1.pptx) |   |   |
 |   | [Hints and Principles for Computer System Design](https://www.microsoft.com/en-us/research/wp-content/uploads/2019/09/Hints-and-Principles-v1-full.pdf) (Required) |   |   |   |
@@ -49,56 +49,56 @@ This course has no textbooks. We will read recent papers from top venues to unde
 |   | [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf) (Required) |   |   |   |
 |   | [How to Give a Bad Talk](https://www.cs.ucf.edu/courses/cop4910/fall2004/BadTalk.pdf) (Required) |   |   |   |
 |   | ***Chapter 1. Systems for LLMs*** |   |   |   |
-| **Sep 21** | **Pre-training: DP, TP, PP** |   |   |   |
+| **Sep 21** | **Pre-training: DP, TP, PP** | Group 9 | Group 4  | Group 3 |
 |   | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM ](https://dl.acm.org/doi/10.1145/3458817.3476209) (Required) |   |   |   |
 |   | [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://dl.acm.org/doi/10.5555/3433701.3433727) (Required) |   |   |   |
 |   | [PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel](https://dl.acm.org/doi/10.14778/3611540.3611569) |   |   |   |
 |   | [GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://proceedings.neurips.cc/paper/2019/hash/093f65e080a295f8076b1c5722a46aa2-Abstract.html) |   |   |   |
 | **Sep 28** | **Pre-training: EP, SP, compiler, memory** |   |   |   |
-|   | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) (Required) |   |   |   |
-|   | [DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models](https://arxiv.org/abs/2309.14509) (Required) |   |   |   |
-|   | [BigMac: Breaking the Pareto Frontier of Compute and Memory in Multimodal LLM Training](https://arxiv.org/pdf/2605.25451) (Required)|   |   |   |
+|   | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) (Required) | Group 11  | Group 5  | Group 8  |
+|   | [DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models](https://arxiv.org/abs/2309.14509) (Required) |  Group 11  | Group 5  | Group 8  |
+|   | [BigMac: Breaking the Pareto Frontier of Compute and Memory in Multimodal LLM Training](https://arxiv.org/pdf/2605.25451) (Required)|  Group 8 |  Group 3 | Group 6 |
 |   | [RingAttention with Blockwise Transformers for Near-Infinite Context](https://openreview.net/forum?id=WsRHpHH4s0) |   |   |   |
 |   | [AutoSP: Unlocking Long-Context LLM Training Via Compiler-Based Sequence Parallelism](https://openreview.net/forum?id=0fgsHvmBBI) |   |   |   |
 |   | [MegaScale-Omni: A Hyper-Scale, Workload-Resilient System for MultiModal LLM Training in Production](https://dl.acm.org/doi/10.1145/3767295.3803587) |   |   |   |
-| **Oct 5** | **Inference: Disaggregation and Memory** |   |   |   |
+| **Oct 5** | **Inference: Disaggregation and Memory** | Group 6  |  Group 2 | Group 11  |
 |   | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180) (Required) |   |   |   |
 |   | [DistServe: Disaggregating Prefill and Decoding for Goodput-Optimized Large Language Model Serving](https://arxiv.org/abs/2401.09670) (Required) |   |   |   |
 |   | [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/conference/osdi22/presentation/yu) |   |   |   |
 |   | [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://www.usenix.org/conference/osdi24/presentation/agrawal) |   |   |   |
-| **Oct 12** | **Inference: KV Cache and Speculation** |   |   |   |
+| **Oct 12** | **Inference: KV Cache and Speculation** | Group 5  |  Group 1 |  Group 10 |
 |   | [Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving](https://arxiv.org/abs/2407.00079) (Required) |   |   |   |
 |   | [EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test](https://arxiv.org/abs/2503.01840) (Required) |   |   |   |
 |   | [VeriCache: Turning Lossy KV Cache into Lossless LLM Inference](https://arxiv.org/abs/2605.17613) |   |   |   |
 |   | [DFlash: Block Diffusion for Flash Speculative Decoding](https://arxiv.org/abs/2602.06036) |   |   |   |
 |   | ***Chapter 2: Systems for Agents*** |   |   |   |
 | **Oct 19** | **No class** |   |   |   |
-| **Oct 26** | **Post-training: Basics** |   |   |   |
+| **Oct 26** | **Post-training: Basics** | Group 1  | Group 7  | Group 9  |
 |   | [HybridFlow: A Flexible and Efficient RLHF Framework](https://dl.acm.org/doi/10.1145/3689031.3696075) (Required) |   |   |   |
 |   | [Optimizing RLHF Training for Large Language Models with Stage Fusion](https://www.usenix.org/conference/nsdi25/presentation/zhong) (Required) |   |   |   |
 |   | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948) |   |   |   |
 |   | [Reinforcement Learning Optimization for Large-Scale Learning: An Efficient and User-Friendly Scaling Library](https://arxiv.org/abs/2506.06122) |   |   |   |
-| **Nov 2** | **Post-training: Async and Disaggregation** |   |   |   |
+| **Nov 2** | **Post-training: Async and Disaggregation** | Group 4  | Group 10  | Group 7  |
 |   | [AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning](https://proceedings.neurips.cc/paper_files/paper/2025/hash/33c00862bfa29ac72ecf630a41e19352-Abstract-Conference.html) (Required) |   |   |   |
 |   | [StreamRL: Scalable, Heterogeneous, and Elastic RL for LLMs with Disaggregated Stream Generation](https://arxiv.org/abs/2504.15930) (Required) |   |   |   |
 |   | [Dynamic Compute and Network Orchestration for Disaggregated RL](https://dl.acm.org/doi/10.1145/3789240.3829124) |   |   |   |
 |   | [ProRL Agent: Rollout-as-a-Service for RL Training of Multi-Turn LLM Agents](https://arxiv.org/abs/2603.18815) |   |   |   |
-| **Nov 9** | **Agents as a New Workload** |   |   |   |
+| **Nov 9** | **Agents as a New Workload** | Group 7  | Group 11  | Group 4  |
 |   | [The Cost of Dynamic Reasoning: Demystifying AI Agents and Test-Time Scaling from an AI Infrastructure Perspective](https://arxiv.org/abs/2506.04301) (Required) |   |   |   |
 |   | [Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/abs/2503.13657) (Required) |   |   |   |
 |   | [Towards Understanding, Analyzing, and Optimizing Agentic AI Execution: A CPU-Centric Perspective](https://arxiv.org/abs/2511.00739) |   |   |   |
 |   | [OpenHands: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/abs/2407.16741) |   |   |   |
-| **Nov 16** | **Agent Serving and Sandbox** |   |   |   |
+| **Nov 16** | **Agent Serving and Sandbox** | Group 2  | Group 9  | Group 5  |
 |   | [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](https://www.usenix.org/conference/osdi24/presentation/lin-chaofan) (Required) |   |   |   |
 |   | [FlashAgents: Accelerating Multi-Agent LLM Systems via Streaming Prefill Overlap](https://openreview.net/forum?id=m14PPUfgEc) (Required) |   |   |   |
 |   | [Towards End-to-End Optimization of LLM-based Applications with Ayo](https://dl.acm.org/doi/10.1145/3676641.3716278) |   |   |   |
 |   | [Pie: A Programmable Serving System for Emerging LLM Applications](https://dl.acm.org/doi/10.1145/3731569.3764814) |   |   |   |
-| **Nov 23** | **Kernels and Networks** |   |   |   |
+| **Nov 23** | **Kernels and Networks** | Group 10 | Group 6  | Group 1  |
 |   | [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135) (Required) |   |   |   |
 |   | [Alibaba HPN: A Data Center Network for Large Language Model Training](https://dl.acm.org/doi/10.1145/3651890.3672265) (Required) |   |   |   |
 |   | [FlashAttention-4: Algorithm and Kernel Pipelining Co-Design for Asymmetric Hardware Scaling](https://arxiv.org/abs/2603.05451) |   |   |   |
 |   | [Connecting 100K+ GPUs: Building the Communication Stack for Large-Scale LLM Training](https://dl.acm.org/doi/10.1145/3789240.3829152) |   |   |   |
-| **Nov 30** | **Reliability and Simulation** |   |   |   |
+| **Nov 30** | **Reliability and Simulation** | Group 3  | Group 8  | Group 2  |
 |   | [Robust LLM Training Infrastructure at ByteDance](https://arxiv.org/abs/2509.16293) (Required) |   |   |   |
 |   | [Frontier: Towards Comprehensive and Accurate LLM Inference Simulation](https://arxiv.org/abs/2605.21312) (Required) |   |   |   |
 |   | [Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints](https://dl.acm.org/doi/10.1145/3600006.3613145) |   |   |   |
@@ -134,7 +134,7 @@ In light of this, this course adopts the following weather policy by default: wh
 
 
 ### Groups
-All activities of this course will be performed in **groups of 5 students**.
+All activities of this course will be performed in **groups of 5 students**. Remaining students will be grouped randomly. We will take it into consideration during grading for groups with fewer students.
 
 Register your group information here: [https://forms.gle/QfSWSvF7NHtutVC56](https://forms.gle/QfSWSvF7NHtutVC56), by **23:59 Sep 13**. After the deadline we will add remaining students to the groups randomly. Final grouping information: [https://docs.google.com/spreadsheets/d/1SXECiKS-mpcFCk9n-cZX8UQtq69UT6HkRK8D4z_xIhA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1SXECiKS-mpcFCk9n-cZX8UQtq69UT6HkRK8D4z_xIhA/edit?usp=sharing).
 
@@ -166,7 +166,7 @@ Therefore, *the slides for a presentation must be emailed to the instructor team
 To enable suggestions, use Google Slides and allow the instructor team give in-line comments.
 
 ### Lecture Summaries
-Each group will also be assigned to **write summaries for at least one lecture**.
+Each group will also be assigned to **write summaries for at least one student lecture**.
 The summary assigned to a group will not be the reading they gave the lecture on.
 The group will write a summary for all presented papers (required readings) for that lecture.
 
@@ -177,6 +177,7 @@ A paper summary must address the following questions in sufficient details (2-3 
 * What is the proposed solution, and what key insight guides their solution?
 * What is one (or more) drawback or limitation of the proposal?
 * What are potential directions for future research?
+* **The discussions between presenters and reviewers during the lecture.**
 
 *The paper summary must be submitted to [https://docs.google.com/forms/d/e/1FAIpQLScedf8xuxkDfueS7x7s3-uSYwtBvu9iBLPAsKB3ax364nvaKw/viewform?usp=publish-editor](https://docs.google.com/forms/d/e/1FAIpQLScedf8xuxkDfueS7x7s3-uSYwtBvu9iBLPAsKB3ax364nvaKw/viewform?usp=publish-editor) **within 24 hours after** the class ends at 1:15pm.* 
 **Late summaries will not be counted.** 
@@ -186,20 +187,23 @@ You should use [this format](Summaries/Template.md) for writing your summary.
 
 ### Post-Presentation Panel Discussion 
 To foster a deeper understanding of the papers and encourage critical thinking, each lecture will be followed by a panel discussion. 
-This discussion will involve three distinct roles played by different student groups, simulating an interactive and dynamic scholarly exchange.
+This discussion will involve three distinct roles played by different student groups (presenters, reviewers, and summarizers), simulating an interactive and dynamic scholarly exchange.
 
 #### Roles and Responsibilities
 
-1. **The Authors**
-- Group Assignment: The group that presents the paper and the group that writes the summary will play the role of the paper's authors.
+1. **The Presenters**
+- Group Assignment: The group that presents the paper will play the role of the paper's authors.
 - Responsibility: As authors, you are expected to defend your paper against critiques, answer questions, and discuss how you might improve or extend your research in the future, akin to writing a rebuttal during the peer-review process.
 
 2. **The Reviewers**
-- Group Assignment: Each group will be assigned to one slot to play the role of reviewers for all presented papers (required readings) of that lecture. Write a summary as mentioned above.
-- Responsibility: Reviewers critically assess the paper, posing challenging questions and highlighting potential weaknesses or areas for further investigation. 
-Your goal is to engage in a constructive critique of the paper, simulating a peer review scenario.
+- Group Assignment: Each group will be assigned to one slot to play the role of reviewers for all presented papers (required readings) of that lecture. 
+- Responsibility: After the presentation, reviewers critically assess the paper, pose challenging questions for the presenters, and highlight potential weaknesses or areas for further investigation. Your goal is to engage in a constructive critique of the paper, simulating a peer review scenario.
 
-3. **Rest of the Class**
+3. **The Summarizers**
+- Group Assignment: Listen and document the discussions between presenters and reviewers.
+- Responsibility: Write a summary as mentioned above and submit it after the lecture.
+   
+4. **Rest of the Class**
 - Responsibility: 
   - You are required to ask **one insightful question** on ed for each presented (required) paper before each class.
   - During the panel discussions, feel free to actively **ask questions** and engage in the dialogue.
