@@ -150,7 +150,7 @@ The course will be conducted as a seminar.
 Only one group will present in each class.
 Each group will be assigned *at least one lecture* over the course of the semester. 
 Presentations should succinctly cover all required papers for that lecture.
-The duration of the presentation should be **at most 40 minutes** with short clarifying questions and interruptions.
+The duration of the presentation should be **at most 40 minutes** for **each paper** with short clarifying questions and interruptions.
 The rest of the lecture time will be dedicated toward discussion on the papers and the broader topic(s) covered by the papers.
 
 In the presentation, you should:
