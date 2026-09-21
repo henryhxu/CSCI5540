@@ -50,7 +50,7 @@ This course has no textbooks. We will read recent papers from top venues to unde
 |   | [How to Give a Bad Talk](https://www.cs.ucf.edu/courses/cop4910/fall2004/BadTalk.pdf) (Required) |   |   |   |
 |   | ***Chapter 1. Systems for LLMs*** |   |   |   |
 | **Sep 21** | **Pre-training: DP, TP, PP** | Group 9 | Group 4  | Group 3 |
-|   | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM ](https://dl.acm.org/doi/10.1145/3458817.3476209) (Required) |   |   |   |
+|   | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM ](https://dl.acm.org/doi/10.1145/3458817.3476209) (Required) | [slides](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155248211_link_cuhk_edu_hk/IQC7ra7ZM_3vSbjzk24G-t5VATXrHmghx7LRaY8-31bQ97w?e=VMQOOX)  |   |   |
 |   | [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://dl.acm.org/doi/10.5555/3433701.3433727) (Required) |   |   |   |
 |   | [PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel](https://dl.acm.org/doi/10.14778/3611540.3611569) |   |   |   |
 |   | [GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://proceedings.neurips.cc/paper/2019/hash/093f65e080a295f8076b1c5722a46aa2-Abstract.html) |   |   |   |
