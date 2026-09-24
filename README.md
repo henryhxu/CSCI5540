@@ -85,8 +85,7 @@ This course has no textbooks. We will read recent papers from top venues to unde
 |   | [ProRL Agent: Rollout-as-a-Service for RL Training of Multi-Turn LLM Agents](https://arxiv.org/abs/2603.18815) |   |   |   |
 | **Nov 9** | **Agents as a New Workload** | Group 7  | Group 11  | Group 4  |
 |   | [Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/abs/2503.13657) (Required) |   |   |   |
-|   | [DeepSeek Elastic Compute (DSec):
-A Sandbox Infrastructure for Effective Agentic Training at Scale](https://arxiv.org/pdf/2609.22978) (Required) |   |   |   |
+|   | [DeepSeek Elastic Compute (DSec): A Sandbox Infrastructure for Effective Agentic Training at Scale](https://arxiv.org/pdf/2609.22978) (Required) |   |   |   |
 |   | [The Cost of Dynamic Reasoning: Demystifying AI Agents and Test-Time Scaling from an AI Infrastructure Perspective](https://arxiv.org/abs/2506.04301) |   |   |   |
 |   | [Towards Understanding, Analyzing, and Optimizing Agentic AI Execution: A CPU-Centric Perspective](https://arxiv.org/abs/2511.00739) |   |   |   |
 | **Nov 16** | **Agent Serving and Sandbox** | Group 2  | Group 9  | Group 5  |
