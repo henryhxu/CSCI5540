@@ -49,15 +49,15 @@ This course has no textbooks. We will read recent papers from top venues to unde
 |   | [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf) (Required) |   |   |   |
 |   | [How to Give a Bad Talk](https://www.cs.ucf.edu/courses/cop4910/fall2004/BadTalk.pdf) (Required) |   |   |   |
 |   | ***Chapter 1. Systems for LLMs*** |   |   |   |
-| **Sep 21** | **Pre-training: DP, TP, PP** | Group 9 | Group 4  | Group 3 |
-|   | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM ](https://dl.acm.org/doi/10.1145/3458817.3476209) (Required) | [slides](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155248211_link_cuhk_edu_hk/IQC7ra7ZM_3vSbjzk24G-t5VATXrHmghx7LRaY8-31bQ97w?e=VMQOOX)  |   |   |
+| **Sep 21** | **Pre-training: DP, TP, PP** | [Group 9](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155248211_link_cuhk_edu_hk/IQC7ra7ZM_3vSbjzk24G-t5VATXrHmghx7LRaY8-31bQ97w?e=VMQOOX) | Group 4  | Group 3 |
+|   | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM ](https://dl.acm.org/doi/10.1145/3458817.3476209) (Required) |   |   |   |
 |   | [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://dl.acm.org/doi/10.5555/3433701.3433727) (Required) |   |   |   |
 |   | [PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel](https://dl.acm.org/doi/10.14778/3611540.3611569) |   |   |   |
 |   | [GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://proceedings.neurips.cc/paper/2019/hash/093f65e080a295f8076b1c5722a46aa2-Abstract.html) |   |   |   |
 | **Sep 28** | **Pre-training: EP, SP, compiler, memory** |   |   |   |
-|   | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) (Required) | Group 11 [slides](https://docs.google.com/presentation/d/1CulmMo1-bGir_4rZT-Ct5CwAkons0nFafs3heOCFKkA/edit?usp=sharing)  | Group 5  | Group 10  |
+|   | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) (Required) | [Group 11](https://docs.google.com/presentation/d/1CulmMo1-bGir_4rZT-Ct5CwAkons0nFafs3heOCFKkA/edit?usp=sharing)  | Group 5  | Group 10  |
 |   | [DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models](https://arxiv.org/abs/2309.14509) (Required) |  Group 11  | Group 5  | Group 10  |
-|   | [BigMac: Breaking the Pareto Frontier of Compute and Memory in Multimodal LLM Training](https://arxiv.org/pdf/2605.25451) (Required)|  Group 8 [slides](https://docs.google.com/presentation/d/1qO6FvIbkbAc3kgOwjACXnyJqgkf0ndtZByGfLTczViQ/edit?usp=sharing) |  Group 3 | Group 6 |
+|   | [BigMac: Breaking the Pareto Frontier of Compute and Memory in Multimodal LLM Training](https://arxiv.org/pdf/2605.25451) (Required)|  [Group 8](https://docs.google.com/presentation/d/1qO6FvIbkbAc3kgOwjACXnyJqgkf0ndtZByGfLTczViQ/edit?usp=sharing) |  Group 3 | Group 6 |
 |   | [RingAttention with Blockwise Transformers for Near-Infinite Context](https://openreview.net/forum?id=WsRHpHH4s0) |   |   |   |
 |   | [AutoSP: Unlocking Long-Context LLM Training Via Compiler-Based Sequence Parallelism](https://openreview.net/forum?id=0fgsHvmBBI) |   |   |   |
 |   | [MegaScale-Omni: A Hyper-Scale, Workload-Resilient System for MultiModal LLM Training in Production](https://dl.acm.org/doi/10.1145/3767295.3803587) |   |   |   |
