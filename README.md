@@ -55,8 +55,7 @@ This course has no textbooks. We will read recent papers from top venues to unde
 |   | [PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel](https://dl.acm.org/doi/10.14778/3611540.3611569) |   |   |   |
 |   | [GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://proceedings.neurips.cc/paper/2019/hash/093f65e080a295f8076b1c5722a46aa2-Abstract.html) |   |   |   |
 | **Sep 28** | **Pre-training: EP, SP, compiler, memory** |   |   |   |
-|   | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) (Required) | Group 11 [slides](https://docs.google.com/presentation/d/1CulmMo1-bGir_4rZT-Ct5CwAkons0nFafs3heOCFKkA/edit?usp=sharing
-)  | Group 5  | Group 10  |
+|   | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) (Required) | Group 11 [slides](https://docs.google.com/presentation/d/1CulmMo1-bGir_4rZT-Ct5CwAkons0nFafs3heOCFKkA/edit?usp=sharing)  | Group 5  | Group 10  |
 |   | [DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models](https://arxiv.org/abs/2309.14509) (Required) |  Group 11  | Group 5  | Group 10  |
 |   | [BigMac: Breaking the Pareto Frontier of Compute and Memory in Multimodal LLM Training](https://arxiv.org/pdf/2605.25451) (Required)|  Group 8 [slides](https://docs.google.com/presentation/d/1qO6FvIbkbAc3kgOwjACXnyJqgkf0ndtZByGfLTczViQ/edit?usp=sharing) |  Group 3 | Group 6 |
 |   | [RingAttention with Blockwise Transformers for Near-Infinite Context](https://openreview.net/forum?id=WsRHpHH4s0) |   |   |   |
