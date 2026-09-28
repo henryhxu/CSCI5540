@@ -55,13 +55,14 @@ This course has no textbooks. We will read recent papers from top venues to unde
 |   | [PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel](https://dl.acm.org/doi/10.14778/3611540.3611569) |   |   |   |
 |   | [GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://proceedings.neurips.cc/paper/2019/hash/093f65e080a295f8076b1c5722a46aa2-Abstract.html) |   |   |   |
 | **Sep 28** | **Pre-training: EP, SP, compiler, memory** |   |   |   |
-|   | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) (Required) | Group 11  | Group 5  | Group 10  |
+|   | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) (Required) | Group 11 [slides](https://docs.google.com/presentation/d/1CulmMo1-bGir_4rZT-Ct5CwAkons0nFafs3heOCFKkA/edit?usp=sharing
+)  | Group 5  | Group 10  |
 |   | [DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models](https://arxiv.org/abs/2309.14509) (Required) |  Group 11  | Group 5  | Group 10  |
-|   | [BigMac: Breaking the Pareto Frontier of Compute and Memory in Multimodal LLM Training](https://arxiv.org/pdf/2605.25451) (Required)|  Group 8 |  Group 3 | Group 6 |
+|   | [BigMac: Breaking the Pareto Frontier of Compute and Memory in Multimodal LLM Training](https://arxiv.org/pdf/2605.25451) (Required)|  Group 8 [slides](https://docs.google.com/presentation/d/1qO6FvIbkbAc3kgOwjACXnyJqgkf0ndtZByGfLTczViQ/edit?usp=sharing) |  Group 3 | Group 6 |
 |   | [RingAttention with Blockwise Transformers for Near-Infinite Context](https://openreview.net/forum?id=WsRHpHH4s0) |   |   |   |
 |   | [AutoSP: Unlocking Long-Context LLM Training Via Compiler-Based Sequence Parallelism](https://openreview.net/forum?id=0fgsHvmBBI) |   |   |   |
 |   | [MegaScale-Omni: A Hyper-Scale, Workload-Resilient System for MultiModal LLM Training in Production](https://dl.acm.org/doi/10.1145/3767295.3803587) |   |   |   |
-| **Oct 5** | **Inference: Disaggregation and Memory** | Group 6  |  Group 2 | Group 11  |
+| **Oct 5** | **Inference: Disaggregation and Memory** | Group 6  |  Group 7 | Group 11  |
 |   | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180) (Required) |   |   |   |
 |   | [DistServe: Disaggregating Prefill and Decoding for Goodput-Optimized Large Language Model Serving](https://arxiv.org/abs/2401.09670) (Required) |   |   |   |
 |   | [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/conference/osdi22/presentation/yu) |   |   |   |
@@ -73,7 +74,7 @@ This course has no textbooks. We will read recent papers from top venues to unde
 |   | [DFlash: Block Diffusion for Flash Speculative Decoding](https://arxiv.org/abs/2602.06036) |   |   |   |
 |   | ***Chapter 2: Systems for Agents*** |   |   |   |
 | **Oct 19** | **No class** |   |   |   |
-| **Oct 26** | **Post-training: Basics** | Group 1  | Group 7  | Group 9  |
+| **Oct 26** | **Post-training: Basics** | Group 1  | Group 2  | Group 9  |
 |   | [HybridFlow: A Flexible and Efficient RLHF Framework](https://dl.acm.org/doi/10.1145/3689031.3696075) (Required) |   |   |   |
 |   | [Optimizing RLHF Training for Large Language Models with Stage Fusion](https://www.usenix.org/conference/nsdi25/presentation/zhong) (Required) |   |   |   |
 |   | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948) |   |   |   |
