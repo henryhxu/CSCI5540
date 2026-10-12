@@ -49,24 +49,24 @@ This course has no textbooks. We will read recent papers from top venues to unde
 |   | [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf) (Required) |   |   |   |
 |   | [How to Give a Bad Talk](https://www.cs.ucf.edu/courses/cop4910/fall2004/BadTalk.pdf) (Required) |   |   |   |
 |   | ***Chapter 1. Systems for LLMs*** |   |   |   |
-| **Sep 21** | **Pre-training: DP, TP, PP** | [Group 9](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155248211_link_cuhk_edu_hk/IQC7ra7ZM_3vSbjzk24G-t5VATXrHmghx7LRaY8-31bQ97w?e=VMQOOX) | Group 4  | Group 3 |
+| **Sep 21** | **Pre-training: DP, TP, PP** | [Group 9](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155248211_link_cuhk_edu_hk/IQC7ra7ZM_3vSbjzk24G-t5VATXrHmghx7LRaY8-31bQ97w?e=VMQOOX) | Group 4  | [Group 3](https://drive.google.com/file/d/1rOQJxxniiQCxWG9T2AmUKGcb0jaFzfOL/view?usp=sharing) |
 |   | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM ](https://dl.acm.org/doi/10.1145/3458817.3476209) (Required) |   |   |   |
 |   | [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://dl.acm.org/doi/10.5555/3433701.3433727) (Required) |   |   |   |
 |   | [PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel](https://dl.acm.org/doi/10.14778/3611540.3611569) |   |   |   |
 |   | [GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://proceedings.neurips.cc/paper/2019/hash/093f65e080a295f8076b1c5722a46aa2-Abstract.html) |   |   |   |
 | **Sep 28** | **Pre-training: EP, SP, compiler, memory** |   |   |   |
-|   | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) (Required) | [Group 11](https://docs.google.com/presentation/d/1CulmMo1-bGir_4rZT-Ct5CwAkons0nFafs3heOCFKkA/edit?usp=sharing)  | Group 5  | Group 10  |
+|   | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) (Required) | [Group 11](https://docs.google.com/presentation/d/1CulmMo1-bGir_4rZT-Ct5CwAkons0nFafs3heOCFKkA/edit?usp=sharing)  | Group 5  | [Group 10](https://drive.google.com/file/d/1Jdq2BZX7XofZdW0OTSVJEF99lTjHG2Is/view?usp=sharing)  |
 |   | [DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models](https://arxiv.org/abs/2309.14509) (Required) |  Group 11  | Group 5  | Group 10  |
-|   | [BigMac: Breaking the Pareto Frontier of Compute and Memory in Multimodal LLM Training](https://arxiv.org/pdf/2605.25451) (Required)|  [Group 8](https://docs.google.com/presentation/d/1qO6FvIbkbAc3kgOwjACXnyJqgkf0ndtZByGfLTczViQ/edit?usp=sharing) |  Group 3 | Group 6 |
+|   | [BigMac: Breaking the Pareto Frontier of Compute and Memory in Multimodal LLM Training](https://arxiv.org/pdf/2605.25451) (Required)|  [Group 8](https://docs.google.com/presentation/d/1qO6FvIbkbAc3kgOwjACXnyJqgkf0ndtZByGfLTczViQ/edit?usp=sharing) |  Group 3 | [Group 6](https://drive.google.com/file/d/1VPKy0PQItSOfZNu9JsT0YcvMApSXXcUb/view?usp=sharing) |
 |   | [RingAttention with Blockwise Transformers for Near-Infinite Context](https://openreview.net/forum?id=WsRHpHH4s0) |   |   |   |
 |   | [AutoSP: Unlocking Long-Context LLM Training Via Compiler-Based Sequence Parallelism](https://openreview.net/forum?id=0fgsHvmBBI) |   |   |   |
 |   | [MegaScale-Omni: A Hyper-Scale, Workload-Resilient System for MultiModal LLM Training in Production](https://dl.acm.org/doi/10.1145/3767295.3803587) |   |   |   |
-| **Oct 5** | **Inference: Disaggregation and Memory** | Group 6  |  Group 7 | Group 11  |
+| **Oct 5** | **Inference: Disaggregation and Memory** | Group 6  |  Group 7 | [Group 11](https://drive.google.com/file/d/1fuUTC8qEdt0c9sx0aIYGD27GOVpaIDg2/view?usp=sharing)  |
 |   | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180) (Required) |   |   |   |
 |   | [DistServe: Disaggregating Prefill and Decoding for Goodput-Optimized Large Language Model Serving](https://arxiv.org/abs/2401.09670) (Required) |   |   |   |
 |   | [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/conference/osdi22/presentation/yu) |   |   |   |
 |   | [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://www.usenix.org/conference/osdi24/presentation/agrawal) |   |   |   |
-| **Oct 12** | **Inference: KV Cache and Speculation** | Group 5  |  Group 1 |  Group 8 |
+| **Oct 12** | **Inference: KV Cache and Speculation** | [Group 5](https://docs.google.com/presentation/d/12QizvogLh6-bSYS2J4yynTwm_qVhlWKs/edit?usp=sharing&ouid=113209797876140410251&rtpof=true&sd=true)  |  Group 1 |  Group 8 |
 |   | [Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving](https://arxiv.org/abs/2407.00079) (Required) |   |   |   |
 |   | [EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test](https://arxiv.org/abs/2503.01840) (Required) |   |   |   |
 |   | [VeriCache: Turning Lossy KV Cache into Lossless LLM Inference](https://arxiv.org/abs/2605.17613) |   |   |   |
