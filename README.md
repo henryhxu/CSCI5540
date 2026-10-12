@@ -61,7 +61,7 @@ This course has no textbooks. We will read recent papers from top venues to unde
 |   | [RingAttention with Blockwise Transformers for Near-Infinite Context](https://openreview.net/forum?id=WsRHpHH4s0) |   |   |   |
 |   | [AutoSP: Unlocking Long-Context LLM Training Via Compiler-Based Sequence Parallelism](https://openreview.net/forum?id=0fgsHvmBBI) |   |   |   |
 |   | [MegaScale-Omni: A Hyper-Scale, Workload-Resilient System for MultiModal LLM Training in Production](https://dl.acm.org/doi/10.1145/3767295.3803587) |   |   |   |
-| **Oct 5** | **Inference: Disaggregation and Memory** | Group 6  |  Group 7 | [Group 11](https://drive.google.com/file/d/1fuUTC8qEdt0c9sx0aIYGD27GOVpaIDg2/view?usp=sharing)  |
+| **Oct 5** | **Inference: Disaggregation and Memory** | [Group 6](https://docs.google.com/presentation/d/1pWgpfNJaRSBDfDqw9w3xaUsm6Lm3hcKMznrEpNgm3lU/edit?usp=sharing)  |  Group 7 | [Group 11](https://drive.google.com/file/d/1fuUTC8qEdt0c9sx0aIYGD27GOVpaIDg2/view?usp=sharing)  |
 |   | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180) (Required) |   |   |   |
 |   | [DistServe: Disaggregating Prefill and Decoding for Goodput-Optimized Large Language Model Serving](https://arxiv.org/abs/2401.09670) (Required) |   |   |   |
 |   | [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/conference/osdi22/presentation/yu) |   |   |   |
