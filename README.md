@@ -66,7 +66,7 @@ This course has no textbooks. We will read recent papers from top venues to unde
 |   | [DistServe: Disaggregating Prefill and Decoding for Goodput-Optimized Large Language Model Serving](https://arxiv.org/abs/2401.09670) (Required) |   |   |   |
 |   | [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/conference/osdi22/presentation/yu) |   |   |   |
 |   | [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://www.usenix.org/conference/osdi24/presentation/agrawal) |   |   |   |
-| **Oct 12** | **Inference: KV Cache and Speculation** | [Group 5](https://docs.google.com/presentation/d/12QizvogLh6-bSYS2J4yynTwm_qVhlWKs/edit?usp=sharing&ouid=113209797876140410251&rtpof=true&sd=true)  |  Group 1 |  Group 8 |
+| **Oct 12** | **Inference: KV Cache and Speculation** | [Group 5](https://docs.google.com/presentation/d/12QizvogLh6-bSYS2J4yynTwm_qVhlWKs/edit?usp=sharing&ouid=113209797876140410251&rtpof=true&sd=true)  |  Group 1 |  [Group 8](https://drive.google.com/file/d/1j8an0PanMAx9YbVPkNKqho6NFuC0AWJ7/view?usp=sharing) |
 |   | [Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving](https://arxiv.org/abs/2407.00079) (Required) |   |   |   |
 |   | [EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test](https://arxiv.org/abs/2503.01840) (Required) |   |   |   |
 |   | [VeriCache: Turning Lossy KV Cache into Lossless LLM Inference](https://arxiv.org/abs/2605.17613) |   |   |   |
