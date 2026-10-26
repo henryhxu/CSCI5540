@@ -110,18 +110,18 @@ This course has no textbooks. We will read recent papers from top venues to unde
 
 | Week | Date | Topic | TA |
 | :---: | :---: | :------------------: | :-----: |
-| 1 | Sep 7 | [Introduction to Machine Learning Systems](tutorial/T01/tut01.pptx) |  TAO Yeyao (in place of Yangtao) |
-| 2 | Sep 14 | [ML system and GPU architecture overview](tutorial/T02/tut02.pptx) |  Yangtao |
-| 3 | Sep 21 | [Triton and graph optimization](tutorial/T03/tut03.pptx) |  Yangtao |
-| 4 | Sep 28 | [Data parallelism and Zero redundancy](tutorial/T04/tut04.pptx) | Yangtao |
-| 5 | Oct 5 |  [Pipeline parallelism](tutorial/T05/tut05.pptx) |  Yangtao |
-| 6 | Oct 12 | [ML compiler](tutorial/T06/tut06.pptx) |  Yangtao |
-| 7 | Oct 26 | [RL frameworks](tutorial/T07/tut07.pptx) |  Chaobo |
-| 8 | Nov 2 | [Transformers, LLMs, serving](tutorial/T08/tut08.pptx) |  Chaobo |
-| 9 | Nov 9 | [FlashAttention and FlashLinearAttention](tutorial/T09/tut09.pptx) | Chaobo |
-| 10 | Nov 16 | [Continuous batching and PagedAttention](tutorial/T10/tut10.pptx) | Chaobo |
-| 11 | Nov 23 | [Speculative Decoding](tutorial/T11/tut11.pptx) | Chaobo |
-| 12 | Nov 30 | [LLM agents](tutorial/T12/tut12.pptx) | Chaobo |
+| 1 | Sep 7 | [Introduction to Machine Learning Systems](tutorial/T01/tut01.pdf) |  TAO Yeyao (in place of Yangtao) |
+| 2 | Sep 14 | [ML system and GPU architecture overview](tutorial/T02/tut02.pdf) |  Yangtao |
+| 3 | Sep 21 | [Triton and graph optimization](tutorial/T03/tut03.pdf) |  Yangtao |
+| 4 | Sep 28 | [Data parallelism and Zero redundancy](tutorial/T04/tut04.pdf) | Yangtao |
+| 5 | Oct 5 |  [Pipeline parallelism](tutorial/T05/tut05.pdf) |  Yangtao |
+| 6 | Oct 12 | [ML compiler](tutorial/T06/tut06.pdf) |  Yangtao |
+| 7 | Oct 26 | [RL frameworks](tutorial/T07/tut07.pdf) |  Chaobo |
+| 8 | Nov 2 | [Transformers, LLMs, serving](tutorial/T08/tut08.pdf) |  Chaobo |
+| 9 | Nov 9 | [FlashAttention and FlashLinearAttention](tutorial/T09/tut09.pdf) | Chaobo |
+| 10 | Nov 16 | [Continuous batching and PagedAttention](tutorial/T10/tut10.pdf) | Chaobo |
+| 11 | Nov 23 | [Speculative Decoding](tutorial/T11/tut11.pdf) | Chaobo |
+| 12 | Nov 30 | [LLM agents](tutorial/T12/tut12.pdf) | Chaobo |
 
 ## Policies
 The format of this course is heavily borrowed from Prof. Mosharaf Chowdhury's [CSE 585](https://github.com/mosharaf/cse585/tree/f26) from U. Michigan with his consent.
