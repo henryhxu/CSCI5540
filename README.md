@@ -118,7 +118,7 @@ This course has no textbooks. We will read recent papers from top venues to unde
 | 6 | Oct 12 | [ML compiler](tutorial/T06/tut06.pdf) |  Yangtao |
 | 7 | Oct 26 | [RL frameworks](tutorial/T07/tut07.pdf) |  Chaobo |
 | 8 | Nov 2 | [Transformers, LLMs, serving](tutorial/T08/tut08.pdf) |  Chaobo |
-| 9 | Nov 9 | [FlashAttention and FlashLinearAttention](tutorial/T09/tut09.pdf) | Chaobo |
+| 9 | Nov 9 | Project progress presentations | Chaobo |
 | 10 | Nov 16 | [Continuous batching and PagedAttention](tutorial/T10/tut10.pdf) | Chaobo |
 | 11 | Nov 23 | [Speculative Decoding](tutorial/T11/tut11.pdf) | Chaobo |
 | 12 | Nov 30 | [LLM agents](tutorial/T12/tut12.pdf) | Chaobo |
