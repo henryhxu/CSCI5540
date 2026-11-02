@@ -73,7 +73,7 @@ This course has no textbooks. We will read recent papers from top venues to unde
 |   | [DFlash: Block Diffusion for Flash Speculative Decoding](https://arxiv.org/abs/2602.06036) |   |   |   |
 |   | ***Chapter 2: Systems for Agents*** |   |   |   |
 | **Oct 19** | **No class** |   |   |   |
-| **Oct 26** | **Post-training: Basics** | Group 1  | Group 2  | Group 9  |
+| **Oct 26** | **Post-training: Basics** | [Group 1](https://drive.google.com/file/d/1vCufjJ-CilzchjLtnt35A9Cce63nwTK9/view?usp=sharing)  | Group 2  | [Group 9](https://drive.google.com/file/d/1jQdcRji3rU-2Yc9Zj8Io3-k_c9TNA3Tn/view?usp=sharing)  |
 |   | [HybridFlow: A Flexible and Efficient RLHF Framework](https://dl.acm.org/doi/10.1145/3689031.3696075) (Required) |   |   |   |
 |   | [Optimizing RLHF Training for Large Language Models with Stage Fusion](https://www.usenix.org/conference/nsdi25/presentation/zhong) (Required) |   |   |   |
 |   | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948) |   |   |   |
