@@ -230,6 +230,17 @@ After this date, we will form groups from the remaining students.
 * Each group must present mid-semester progress during the tutorial hours on **November 9**.
 * Each group must turn in an 8-page final report and your source code via email **on or before 1:00PM EST on December 17.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. It should point to a git repository with all the code along with a README file with a step-by-step guide on how to compile and run the code. Code that cannot run will be treated as a non-submission without any debugging effort from the teaching team. Make sure your instructions are complete.
 
+#### Project presentation
+Project presentations will take place on November 30th of the last week. After the paper presentation on simulation, which takes one hour, we will use the remaining three hours (including the tutorial time) for the project presentations of all 11 groups.
+- Each presentation is allocated 15 minutes: 1 min for setup, 10 min for the actual presentation, and 3 min for Q&A (1 min as buffer).
+- Timing will be enforced strictly. Presentations longer than 10 min will be stopped promptly.
+- Full mark is 18 (2 marks for midterm progress presentation). Rubrics:
+  - Contents: 10 marks
+  - Presentation effectiveness: 4 marks
+  - Slides design: 2 marks
+  - Time control: 2 marks
+- Schedule will be announced separately on Ed.
+
 ### GPU resources
 * The dept has reserved at least 2 servers each with 8 3090 GPUs for this course. Enrolled students have been given access to them already.
 * Usage example of the 3090 GPUs (slurm based; cse IP or vpn required)
