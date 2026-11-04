@@ -98,11 +98,12 @@ This course has no textbooks. We will read recent papers from top venues to unde
 |   | [Alibaba HPN: A Data Center Network for Large Language Model Training](https://dl.acm.org/doi/10.1145/3651890.3672265) (Required) |   |   |   |
 |   | [FlashAttention-4: Algorithm and Kernel Pipelining Co-Design for Asymmetric Hardware Scaling](https://arxiv.org/abs/2603.05451) |   |   |   |
 |   | [Connecting 100K+ GPUs: Building the Communication Stack for Large-Scale LLM Training](https://dl.acm.org/doi/10.1145/3789240.3829152) |   |   |   |
-| **Nov 30** | **Reliability and Simulation** | Group 3  | Group 8  | Group 2  |
+|  | **Reliability** | Group 3  | Group 8  | Group 2  |
 |   | [Robust LLM Training Infrastructure at ByteDance](https://arxiv.org/abs/2509.16293) (Required) |   |   |   |
-|   | [Frontier: Towards Comprehensive and Accurate LLM Inference Simulation](https://arxiv.org/abs/2605.21312) (Required) |   |   |   |
 |   | [Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints](https://dl.acm.org/doi/10.1145/3600006.3613145) |   |   |   |
 |   | [Mycroft: Tracing Dependencies in Collective Communication Towards Reliable LLM Training](https://dl.acm.org/doi/10.1145/3731569.3764848) |   |   |   |
+| **Nov 30** | **Simulation; Project Presentations** | Group 3  | Group 8  | Group 2  |
+|   | [Frontier: Towards Comprehensive and Accurate LLM Inference Simulation](https://arxiv.org/abs/2605.21312) (Required) |   |   |   |
 |   | [SimAI: Unifying Architecture Design and Performance Tuning for Large-Scale Large Language Model Training with Scalability and Precision](https://www.usenix.org/conference/nsdi25/presentation/wang-xizheng-simai) |   |   |   |
 
 
@@ -119,9 +120,9 @@ This course has no textbooks. We will read recent papers from top venues to unde
 | 7 | Oct 26 | [RL frameworks](tutorial/T07/tut07.pdf) |  Chaobo |
 | 8 | Nov 2 | [Transformers, LLMs, serving](tutorial/T08/tut08.pdf) |  Chaobo |
 | 9 | Nov 9 | Project progress presentations | Chaobo |
-| 10 | Nov 16 | [Continuous batching and PagedAttention](tutorial/T10/tut10.pdf) | Chaobo |
-| 11 | Nov 23 | [Speculative Decoding](tutorial/T11/tut11.pdf) | Chaobo |
-| 12 | Nov 30 | [LLM agents](tutorial/T12/tut12.pdf) | Chaobo |
+| 10 | Nov 16 | [Continuous batching and PagedAttention](tutorial/T10/tut10.pdf); [Speculative Decoding](tutorial/T11/tut11.pdf) | Chaobo |
+| 11 | Nov 23 | [LLM agents](tutorial/T12/tut12.pdf) | Chaobo |
+| 12 | Nov 30 | Project presentation | Henry |
 
 ## Policies
 The format of this course is heavily borrowed from Prof. Mosharaf Chowdhury's [CSE 585](https://github.com/mosharaf/cse585/tree/f26) from U. Michigan with his consent.
