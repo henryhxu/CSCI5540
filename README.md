@@ -78,7 +78,7 @@ This course has no textbooks. We will read recent papers from top venues to unde
 |   | [Optimizing RLHF Training for Large Language Models with Stage Fusion](https://www.usenix.org/conference/nsdi25/presentation/zhong) (Required) |   |   |   |
 |   | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948) |   |   |   |
 |   | [Reinforcement Learning Optimization for Large-Scale Learning: An Efficient and User-Friendly Scaling Library](https://arxiv.org/abs/2506.06122) |   |   |   |
-| **Nov 2** | **Post-training: Async and Disaggregation** | Group 4  | Group 10  | Group 7  |
+| **Nov 2** | **Post-training: Async and Disaggregation** | [Group 4](https://docs.google.com/presentation/d/1IJfFnf1lP7GN4eU9AJUrLH8hbtpIKzujFKWq7ZLDuNA/edit?usp=sharing)  | Group 10  | [Group 7](https://drive.google.com/file/d/19bvbjchqcw4v6C_CEXc_6hBCEFXsVA93/view?usp=sharing)  |
 |   | [AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning](https://proceedings.neurips.cc/paper_files/paper/2025/hash/33c00862bfa29ac72ecf630a41e19352-Abstract-Conference.html) (Required) |   |   |   |
 |   | [StreamRL: Scalable, Heterogeneous, and Elastic RL for LLMs with Disaggregated Stream Generation](https://arxiv.org/abs/2504.15930) (Required) |   |   |   |
 |   | [Dynamic Compute and Network Orchestration for Disaggregated RL](https://dl.acm.org/doi/10.1145/3789240.3829124) |   |   |   |
