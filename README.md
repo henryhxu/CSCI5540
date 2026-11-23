@@ -83,12 +83,12 @@ This course has no textbooks. We will read recent papers from top venues to unde
 |   | [StreamRL: Scalable, Heterogeneous, and Elastic RL for LLMs with Disaggregated Stream Generation](https://arxiv.org/abs/2504.15930) (Required) |   |   |   |
 |   | [Dynamic Compute and Network Orchestration for Disaggregated RL](https://dl.acm.org/doi/10.1145/3789240.3829124) |   |   |   |
 |   | [ProRL Agent: Rollout-as-a-Service for RL Training of Multi-Turn LLM Agents](https://arxiv.org/abs/2603.18815) |   |   |   |
-| **Nov 9** | **Agents as a New Workload** | Group 7  | Group 11  | Group 4  |
+| **Nov 9** | **Agents as a New Workload** | [Group 7](https://docs.google.com/presentation/d/199nqOV9u01ij94IKZmYAj47EE9vfERetnRNRHZVsxew/edit?usp=sharing)  | Group 11  | [Group 4](https://docs.google.com/document/d/1rSeDyyQVHak9_qGoqzMm_ZUmX0B3uHBh/edit?usp=sharing&ouid=113209797876140410251&rtpof=true&sd=true)  |
 |   | [Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/abs/2503.13657) (Required) |   |   |   |
 |   | [DeepSeek Elastic Compute (DSec): A Sandbox Infrastructure for Effective Agentic Training at Scale](https://arxiv.org/pdf/2609.22978) (Required) |   |   |   |
 |   | [The Cost of Dynamic Reasoning: Demystifying AI Agents and Test-Time Scaling from an AI Infrastructure Perspective](https://arxiv.org/abs/2506.04301) |   |   |   |
 |   | [Towards Understanding, Analyzing, and Optimizing Agentic AI Execution: A CPU-Centric Perspective](https://arxiv.org/abs/2511.00739) |   |   |   |
-| **Nov 16** | **Agent Serving and Sandbox** | Group 2  | Group 9  | Group 5  |
+| **Nov 16** | **Agent Serving and Sandbox** | Group 2  | Group 9  | [Group 5](https://drive.google.com/file/d/1uaki85w5PSPSVHnpUoNX629KczwuFKJV/view?usp=sharing)  |
 |   | [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](https://www.usenix.org/conference/osdi24/presentation/lin-chaofan) (Required) |   |   |   |
 |   | [FlashAgents: Accelerating Multi-Agent LLM Systems via Streaming Prefill Overlap](https://openreview.net/forum?id=m14PPUfgEc) (Required) |   |   |   |
 |   | [Towards End-to-End Optimization of LLM-based Applications with Ayo](https://dl.acm.org/doi/10.1145/3676641.3716278) |   |   |   |
@@ -98,7 +98,7 @@ This course has no textbooks. We will read recent papers from top venues to unde
 |   | [Alibaba HPN: A Data Center Network for Large Language Model Training](https://dl.acm.org/doi/10.1145/3651890.3672265) (Required) |   |   |   |
 |   | [FlashAttention-4: Algorithm and Kernel Pipelining Co-Design for Asymmetric Hardware Scaling](https://arxiv.org/abs/2603.05451) |   |   |   |
 |   | [Connecting 100K+ GPUs: Building the Communication Stack for Large-Scale LLM Training](https://dl.acm.org/doi/10.1145/3789240.3829152) |   |   |   |
-|  | **Reliability** | Group 3  | Group 8  | Group 2  |
+|  | **Reliability** | [Group 3](https://docs.google.com/presentation/d/1NR5O6BQEFLF8IQjjYZk0IKhKIflCKo6ZHAeE9wTWwsY/edit)  | Group 8  | Group 2  |
 |   | [Robust LLM Training Infrastructure at ByteDance](https://arxiv.org/abs/2509.16293) (Required) |   |   |   |
 |   | [Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints](https://dl.acm.org/doi/10.1145/3600006.3613145) |   |   |   |
 |   | [Mycroft: Tracing Dependencies in Collective Communication Towards Reliable LLM Training](https://dl.acm.org/doi/10.1145/3731569.3764848) |   |   |   |
