@@ -93,7 +93,7 @@ This course has no textbooks. We will read recent papers from top venues to unde
 |   | [FlashAgents: Accelerating Multi-Agent LLM Systems via Streaming Prefill Overlap](https://openreview.net/forum?id=m14PPUfgEc) (Required) |   |   |   |
 |   | [Towards End-to-End Optimization of LLM-based Applications with Ayo](https://dl.acm.org/doi/10.1145/3676641.3716278) |   |   |   |
 |   | [Pie: A Programmable Serving System for Emerging LLM Applications](https://dl.acm.org/doi/10.1145/3731569.3764814) |   |   |   |
-| **Nov 23** | **Kernels and Networks** | Group 10 | Group 6  | Group 1  |
+| **Nov 23** | **Kernels and Networks** | [Group 10](https://drive.google.com/file/d/1N3I_-mZOsCgaZIEObkTZWMF6lW9TMHVy/view?usp=sharing) | Group 6  | Group 1  |
 |   | [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135) (Required) |   |   |   |
 |   | [Alibaba HPN: A Data Center Network for Large Language Model Training](https://dl.acm.org/doi/10.1145/3651890.3672265) (Required) |   |   |   |
 |   | [FlashAttention-4: Algorithm and Kernel Pipelining Co-Design for Asymmetric Hardware Scaling](https://arxiv.org/abs/2603.05451) |   |   |   |
