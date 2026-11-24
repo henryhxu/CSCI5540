@@ -88,17 +88,17 @@ This course has no textbooks. We will read recent papers from top venues to unde
 |   | [DeepSeek Elastic Compute (DSec): A Sandbox Infrastructure for Effective Agentic Training at Scale](https://arxiv.org/pdf/2609.22978) (Required) |   |   |   |
 |   | [The Cost of Dynamic Reasoning: Demystifying AI Agents and Test-Time Scaling from an AI Infrastructure Perspective](https://arxiv.org/abs/2506.04301) |   |   |   |
 |   | [Towards Understanding, Analyzing, and Optimizing Agentic AI Execution: A CPU-Centric Perspective](https://arxiv.org/abs/2511.00739) |   |   |   |
-| **Nov 16** | **Agent Serving and Sandbox** | Group 2  | Group 9  | [Group 5](https://drive.google.com/file/d/1uaki85w5PSPSVHnpUoNX629KczwuFKJV/view?usp=sharing)  |
+| **Nov 16** | **Agent Serving and Sandbox** | [Group 2](https://docs.google.com/presentation/d/18sR06-YUZHoCtUCiI08IfFtpZZz2OUf6XnDGhRy5nUM/edit?usp=sharing)  | Group 9  | [Group 5](https://drive.google.com/file/d/1uaki85w5PSPSVHnpUoNX629KczwuFKJV/view?usp=sharing)  |
 |   | [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](https://www.usenix.org/conference/osdi24/presentation/lin-chaofan) (Required) |   |   |   |
 |   | [FlashAgents: Accelerating Multi-Agent LLM Systems via Streaming Prefill Overlap](https://openreview.net/forum?id=m14PPUfgEc) (Required) |   |   |   |
 |   | [Towards End-to-End Optimization of LLM-based Applications with Ayo](https://dl.acm.org/doi/10.1145/3676641.3716278) |   |   |   |
 |   | [Pie: A Programmable Serving System for Emerging LLM Applications](https://dl.acm.org/doi/10.1145/3731569.3764814) |   |   |   |
-| **Nov 23** | **Kernels and Networks** | [Group 10](https://drive.google.com/file/d/1N3I_-mZOsCgaZIEObkTZWMF6lW9TMHVy/view?usp=sharing) | Group 6  | Group 1  |
+| **Nov 23** | **Kernels and Networks** | [Group 10](https://drive.google.com/file/d/1N3I_-mZOsCgaZIEObkTZWMF6lW9TMHVy/view?usp=sharing) | Group 6  | [Group 1](https://drive.google.com/file/d/1bux0pc1dkVHXA6Z83p1dxuFvViwfMQYZ/view?usp=sharing)  |
 |   | [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135) (Required) |   |   |   |
 |   | [Alibaba HPN: A Data Center Network for Large Language Model Training](https://dl.acm.org/doi/10.1145/3651890.3672265) (Required) |   |   |   |
 |   | [FlashAttention-4: Algorithm and Kernel Pipelining Co-Design for Asymmetric Hardware Scaling](https://arxiv.org/abs/2603.05451) |   |   |   |
 |   | [Connecting 100K+ GPUs: Building the Communication Stack for Large-Scale LLM Training](https://dl.acm.org/doi/10.1145/3789240.3829152) |   |   |   |
-|  | **Reliability** | [Group 3](https://docs.google.com/presentation/d/1NR5O6BQEFLF8IQjjYZk0IKhKIflCKo6ZHAeE9wTWwsY/edit)  | Group 8  | Group 2  |
+|  | **Reliability** | [Group 3](https://docs.google.com/presentation/d/1NR5O6BQEFLF8IQjjYZk0IKhKIflCKo6ZHAeE9wTWwsY/edit)  | Group 8  | [Group 2](https://docs.google.com/document/d/18fDxgn2-4bVf_yoJtmhyYzV7wBxH57R1/edit?usp=sharing&ouid=113209797876140410251&rtpof=true&sd=true)  |
 |   | [Robust LLM Training Infrastructure at ByteDance](https://arxiv.org/abs/2509.16293) (Required) |   |   |   |
 |   | [Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints](https://dl.acm.org/doi/10.1145/3600006.3613145) |   |   |   |
 |   | [Mycroft: Tracing Dependencies in Collective Communication Towards Reliable LLM Training](https://dl.acm.org/doi/10.1145/3731569.3764848) |   |   |   |
